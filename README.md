@@ -1,1 +1,14 @@
-# WEBSITE-1
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>My first Website</title>
+ </head>
+ <body>
+  <main>
+   <h1>Welcome to my first website</h1>
+   <p>This is Dana </p>
+   <img src="https://i.pinimg.com/736x/79/1b/3a/791b3a33b2ce3320ca1817310ad9ae58.jpg" alt="cat with tongue out">
+  </main>
+ </body>
+</html>
